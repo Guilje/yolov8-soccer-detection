@@ -27,4 +27,4 @@ Treinar um modelo YOLOv8 para identificar jogadores e a bola em vídeos de futeb
 - Manipulação de vídeo com OpenCV
 
 ## Exemplo de Resultado
-![Exemplo de Detecção](videos/frame_exemplo.png)
+![Exemplo de Detecção](videos/frame_exemplo.PNG)
